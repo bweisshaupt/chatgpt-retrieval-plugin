@@ -1,10 +1,10 @@
 openapi: 3.0.2
 info:
-  title: Retrieval Plugin API
-  description: A retrieval API for querying and filtering documents based on natural language queries and metadata
+  title: Volt Deutschland API
+  description: This API let's you search through up-to-date Volt Deutschland information.
   version: 1.0.0
 servers:
-  - url: https://your-app-url.com
+  - url: https://goldfish-app-ox458.ondigitalocean.app/
 paths:
   /query:
     post:
