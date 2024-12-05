@@ -1,4 +1,4 @@
-openapi: 3.0.2
+openapi: 3.1.0
 info:
   title: Volt Deutschland API
   description: This API let's you search through up-to-date Volt Deutschland information.
