@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Volt Deutschland API
-  description: This API let's you search through up-to-date Volt Deutschland information.
+  description: This API let's you search through up-to-date information about the German party Volt Deutschland.
   version: 1.0.0
 servers:
   - url: https://goldfish-app-ox458.ondigitalocean.app/

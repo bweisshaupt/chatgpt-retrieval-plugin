@@ -2,7 +2,7 @@
   "schema_version": "v1",
   "name_for_model": "volt_deutschland",
   "name_for_human": "Volt Deutschland",
-  "description_for_model": "Use this tool to obtain up-to-date information about the Volt Deutschland party. Do not use this tool if the user does not ask about Volt Deutschland.",
+  "description_for_model": "Use this tool to obtain up-to-date information about the German party Volt Deutschland. Do not use this tool if the user does not ask about Volt Deutschland.",
   "description_for_human": "Aktuelle Informationen rund um die Partei Volt Deutschland.",
   "auth": {
     "type": "user_http",
